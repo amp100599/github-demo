@@ -1,21 +1,15 @@
 # add imple
 def add(a,b):
-	return X+Y
+	pass
 
 # sub imple
 def sub(a,b):
-	retyen x-y   master
+	rpass
 
 # mult imple
 def mult(a,b):
-	retur x*y   Bug 456
+	pass
 
 # div imple
 def div(a,b):
-	if y ==0   			master
-		return divede error
-	else:
-		return x/y
-
-def sruare(x):
-	PASS
+	pass
